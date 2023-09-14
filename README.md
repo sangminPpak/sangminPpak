@@ -1,5 +1,6 @@
 ### GACHON AI github lab👋
 Leaning in the university.
+Looking for someone help me lean code.
 
 <!--
 **sangminPpak/sangminPpak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

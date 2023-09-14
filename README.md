@@ -1,4 +1,5 @@
 ### GACHON AI github lab👋
+Leaning in the university.
 
 <!--
 **sangminPpak/sangminPpak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
